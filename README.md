@@ -1,4 +1,4 @@
-# Movie App
+# Movie CMR - Mobile 
 
 ## Overview
 This project is a fully functional **Movie App** built using **Flutter** for the frontend and **Node.js** with **MongoDB** for the backend. The app emphasizes **Clean Architecture principles**, **BLoC (Business Logic Component)** for state management, and efficient **API integration** using **Dio**.
@@ -56,3 +56,6 @@ This project is a fully functional **Movie App** built using **Flutter** for the
 - **Express.js**
 - **JWT** for authentication
 - **Axios** for API communication
+
+
+### Created by Cabrel Ngamaleu
