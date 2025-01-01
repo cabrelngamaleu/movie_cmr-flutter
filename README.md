@@ -2,7 +2,7 @@
 
 ## Overview
 This project is a fully functional **Movie App** built using **Flutter** for the frontend and **Node.js** with **MongoDB** for the backend. The app emphasizes **Clean Architecture principles**, **BLoC (Business Logic Component)** for state management, and efficient **API integration** using **Dio**.
-
+https://github.com/cabrelngamaleu/movie_cmr-flutter/blob/b995d79d66f6ad4dfa4adeffdf8f8225fe00c953/screenshot.jpg
 ## Features
 
 ### Frontend
